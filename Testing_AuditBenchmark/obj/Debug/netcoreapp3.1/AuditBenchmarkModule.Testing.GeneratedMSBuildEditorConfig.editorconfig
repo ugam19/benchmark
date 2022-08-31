@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AuditBenchmarkModule.Testing
+build_property.ProjectDir = C:\DevOps\benchmark\Testing_AuditBenchmark\
